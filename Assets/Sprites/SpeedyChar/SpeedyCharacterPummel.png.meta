@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: 709a2f441071cc24d89adcc4adb6efb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7282213072677014204
+    second: SpeedyCharacterPummel_0
+  - first:
+      213: -8090402153859351183
+    second: SpeedyCharacterPummel_1
+  - first:
+      213: 3035632577332046823
+    second: SpeedyCharacterPummel_2
+  - first:
+      213: -1383204909969093916
+    second: SpeedyCharacterPummel_3
+  - first:
+      213: -5650382133630345594
+    second: SpeedyCharacterPummel_4
+  - first:
+      213: -667470165806512955
+    second: SpeedyCharacterPummel_5
+  - first:
+      213: -7585811987392754121
+    second: SpeedyCharacterPummel_6
+  - first:
+      213: -7903870370634437795
+    second: SpeedyCharacterPummel_0
+  - first:
+      213: 4969537175397210397
+    second: SpeedyCharacterPummel_1
+  - first:
+      213: 5417561164576841485
+    second: SpeedyCharacterPummel_2
+  - first:
+      213: -6636209406560357960
+    second: SpeedyCharacterPummel_3
+  - first:
+      213: -1853536366266299274
+    second: SpeedyCharacterPummel_4
+  - first:
+      213: -5734235498900185637
+    second: SpeedyCharacterPummel_5
+  - first:
+      213: 3208673939752381668
+    second: SpeedyCharacterPummel_6
+  - first:
+      213: -8561141429874918315
+    second: SpeedyCharacterPummel_7
+  - first:
+      213: 8561263672883076823
+    second: SpeedyCharacterPummel_8
+  - first:
+      213: 6071459005948416826
+    second: SpeedyCharacterPummel_9
+  - first:
+      213: -3472794828329599761
+    second: SpeedyCharacterPummel_10
+  - first:
+      213: -8299260509573975194
+    second: SpeedyCharacterPummel_11
+  - first:
+      213: -7826325194632731591
+    second: SpeedyCharacterPummel_12
+  - first:
+      213: -2475786053904236304
+    second: SpeedyCharacterPummel_13
+  - first:
+      213: -1384259852111724783
+    second: SpeedyCharacterPummel_14
+  - first:
+      213: -4377667326400130139
+    second: SpeedyCharacterPummel_15
+  - first:
+      213: -4833614520857045609
+    second: SpeedyCharacterPummel_16
+  - first:
+      213: -7550416821126863816
+    second: SpeedyCharacterPummel_17
+  - first:
+      213: -587771670677553500
+    second: SpeedyCharacterPummel_18
+  - first:
+      213: 4050239857129929321
+    second: SpeedyCharacterPummel_19
+  - first:
+      213: 6395232059349087667
+    second: SpeedyCharacterPummel_20
+  - first:
+      213: -4330908777418363479
+    second: SpeedyCharacterPummel_21
+  - first:
+      213: -2320860494799818248
+    second: SpeedyCharacterPummel_22
+  - first:
+      213: 1483847572484513852
+    second: SpeedyCharacterPummel_23
+  - first:
+      213: -1792376909743385873
+    second: SpeedyCharacterPummel_24
+  - first:
+      213: -4770747795448704219
+    second: SpeedyCharacterPummel_25
+  - first:
+      213: 7585131975536268930
+    second: SpeedyCharacterPummel_26
+  - first:
+      213: 3126545744275349198
+    second: SpeedyCharacterPummel_27
+  - first:
+      213: -5298209804127595089
+    second: SpeedyCharacterPummel_28
+  - first:
+      213: 7328137518519939081
+    second: SpeedyCharacterPummel_29
+  - first:
+      213: -6993358498774411910
+    second: SpeedyCharacterPummel_30
+  - first:
+      213: 18057445015064099
+    second: SpeedyCharacterPummel_31
+  - first:
+      213: -6471578059208762723
+    second: SpeedyCharacterPummel_32
+  - first:
+      213: -2026351363705047087
+    second: SpeedyCharacterPummel_33
+  - first:
+      213: -6506871431658444979
+    second: SpeedyCharacterPummel_34
+  - first:
+      213: -1589215278938457692
+    second: SpeedyCharacterPummel_35
+  - first:
+      213: -4649236313451671522
+    second: SpeedyCharacterPummel_36
+  - first:
+      213: -494665351155263374
+    second: SpeedyCharacterPummel_37
+  - first:
+      213: 6709137504992784281
+    second: SpeedyCharacterPummel_38
+  - first:
+      213: 5423972083151959261
+    second: SpeedyCharacterPummel_39
+  - first:
+      213: 6797160319025626229
+    second: SpeedyCharacterPummel_40
+  - first:
+      213: -7775670844345536318
+    second: SpeedyCharacterPummel_41
+  - first:
+      213: -8829185229267212680
+    second: SpeedyCharacterPummel_42
+  - first:
+      213: -6138504278749293503
+    second: SpeedyCharacterPummel_43
+  - first:
+      213: 6583431001721022795
+    second: SpeedyCharacterPummel_44
+  - first:
+      213: -7701257812112397397
+    second: SpeedyCharacterPummel_45
+  - first:
+      213: 6153243568181645841
+    second: SpeedyCharacterPummel_46
+  - first:
+      213: 1073743395748413844
+    second: SpeedyCharacterPummel_47
+  - first:
+      213: 2518589015765433015
+    second: SpeedyCharacterPummel_48
+  - first:
+      213: 2013877108125218015
+    second: SpeedyCharacterPummel_49
+  - first:
+      213: 2466275166755991846
+    second: SpeedyCharacterPummel_50
+  - first:
+      213: -4267832653004037114
+    second: SpeedyCharacterPummel_51
+  - first:
+      213: 5900000442399873008
+    second: SpeedyCharacterPummel_52
+  - first:
+      213: -7503304012586898631
+    second: SpeedyCharacterPummel_53
+  - first:
+      213: -6706390319132387052
+    second: SpeedyCharacterPummel_54
+  - first:
+      213: -7915319148533782820
+    second: SpeedyCharacterPummel_55
+  - first:
+      213: 4559458947266589470
+    second: SpeedyCharacterPummel_56
+  - first:
+      213: 2579631182250434485
+    second: SpeedyCharacterPummel_57
+  - first:
+      213: -3066310065435222916
+    second: SpeedyCharacterPummel_58
+  - first:
+      213: 2649206553208531715
+    second: SpeedyCharacterPummel_59
+  - first:
+      213: -5355676519131618024
+    second: SpeedyCharacterPummel_60
+  - first:
+      213: -4878755827408717077
+    second: SpeedyCharacterPummel_61
+  - first:
+      213: 2483265780985996584
+    second: SpeedyCharacterPummel_62
+  - first:
+      213: 86272256708069787
+    second: SpeedyCharacterPummel_63
+  - first:
+      213: 5530879607582076751
+    second: SpeedyCharacterPummel_64
+  - first:
+      213: 7467164004101773763
+    second: SpeedyCharacterPummel_65
+  - first:
+      213: -1779252125508512407
+    second: SpeedyCharacterPummel_66
+  - first:
+      213: -9189768650254447688
+    second: SpeedyCharacterPummel_67
+  - first:
+      213: -4073570023240338476
+    second: SpeedyCharacterPummel_68
+  - first:
+      213: -8156528938385728282
+    second: SpeedyCharacterPummel_69
+  - first:
+      213: -3541227837341790674
+    second: SpeedyCharacterPummel_70
+  - first:
+      213: -7783925159910726818
+    second: SpeedyCharacterPummel_71
+  - first:
+      213: 6934498544486321657
+    second: SpeedyCharacterPummel_72
+  - first:
+      213: 5088993631452930338
+    second: SpeedyCharacterPummel_73
+  - first:
+      213: 8094216092476902316
+    second: SpeedyCharacterPummel_74
+  - first:
+      213: 1741462669581899325
+    second: SpeedyCharacterPummel_75
+  - first:
+      213: 5454299987875320307
+    second: SpeedyCharacterPummel_76
+  - first:
+      213: 4649147577086700135
+    second: SpeedyCharacterPummel_77
+  - first:
+      213: -5945602917276938952
+    second: SpeedyCharacterPummel_78
+  - first:
+      213: 8430048871540870055
+    second: SpeedyCharacterPummel_79
+  - first:
+      213: -2869363298173250214
+    second: SpeedyCharacterPummel_80
+  - first:
+      213: 7065140268501831661
+    second: SpeedyCharacterPummel_81
+  - first:
+      213: -4237202756642052857
+    second: SpeedyCharacterPummel_82
+  - first:
+      213: 7083485585830838366
+    second: SpeedyCharacterPummel_83
+  - first:
+      213: -756576090064511640
+    second: SpeedyCharacterPummel_84
+  - first:
+      213: -2919059496307400241
+    second: SpeedyCharacterPummel_85
+  - first:
+      213: 6242376986142323424
+    second: SpeedyCharacterPummel_86
+  - first:
+      213: 6735207135805991831
+    second: SpeedyCharacterPummel_87
+  - first:
+      213: 976337228718140192
+    second: SpeedyCharacterPummel_88
+  - first:
+      213: 2379186431964682838
+    second: SpeedyCharacterPummel_89
+  - first:
+      213: -2562711520578723434
+    second: SpeedyCharacterPummel_90
+  - first:
+      213: 4040912088661233017
+    second: SpeedyCharacterPummel_91
+  - first:
+      213: -1168502751268476096
+    second: SpeedyCharacterPummel_92
+  - first:
+      213: 4137714355581046924
+    second: SpeedyCharacterPummel_93
+  - first:
+      213: -2326200883255234362
+    second: SpeedyCharacterPummel_94
+  - first:
+      213: 6224057545690432715
+    second: SpeedyCharacterPummel_95
+  - first:
+      213: 934200204586170871
+    second: SpeedyCharacterPummel_96
+  - first:
+      213: 2802338737033901642
+    second: SpeedyCharacterPummel_97
+  - first:
+      213: -302921240731925524
+    second: SpeedyCharacterPummel_98
+  - first:
+      213: 4395092605536071644
+    second: SpeedyCharacterPummel_99
+  - first:
+      213: 3319293067980843527
+    second: SpeedyCharacterPummel_100
+  - first:
+      213: 4199052055903418444
+    second: SpeedyCharacterPummel_101
+  - first:
+      213: -8670060823044762937
+    second: SpeedyCharacterPummel_102
+  - first:
+      213: 1783868565887242257
+    second: SpeedyCharacterPummel_103
+  - first:
+      213: 105393211846076761
+    second: SpeedyCharacterPummel_104
+  - first:
+      213: -3388023644904907171
+    second: SpeedyCharacterPummel_105
+  - first:
+      213: -5376498480637982563
+    second: SpeedyCharacterPummel_106
+  - first:
+      213: 6711447643635204194
+    second: SpeedyCharacterPummel_107
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpeedyCharacterPummel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 1280
+        height: 640
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b699f36cfcf4290800000000000000
+      internalID: -7903870370634437795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyCharacterPummel_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3200
+        width: 1280
+        height: 640
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1916a53bb757f440800000000000000
+      internalID: 4969537175397210397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyCharacterPummel_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 1280
+        height: 640
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fdd8bfc2b0f2b40800000000000000
+      internalID: 5417561164576841485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyCharacterPummel_3
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2560
+        width: 1280
+        height: 640
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b13dd274b277e3a0800000000000000
+      internalID: -6636209406560357960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyCharacterPummel_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 1280
+        height: 640
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ccd6ece7ae646e0800000000000000
+      internalID: -1853536366266299274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyCharacterPummel_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 1280
+        height: 640
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd9e9de137eb60b0800000000000000
+      internalID: -5734235498900185637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyCharacterPummel_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 1280
+        height: 640
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec6efaa2ff778c20800000000000000
+      internalID: 3208673939752381668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyCharacterPummel_7
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 1280
+        height: 640
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cfc687a37b03980800000000000000
+      internalID: -8561141429874918315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyCharacterPummel_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 1280
+        height: 640
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ded6a273f7bfc670800000000000000
+      internalID: 8561263672883076823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyCharacterPummel_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 1280
+        height: 640
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33d6e54cc7224450800000000000000
+      internalID: 6071459005948416826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyCharacterPummel_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1280
+        height: 640
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecb997d0872ecfc0800000000000000
+      internalID: -3472794828329599761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpeedyCharacterPummel_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 1280
+        height: 640
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6637a64b98a13dc80800000000000000
+      internalID: -8299260509573975194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
